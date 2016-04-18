@@ -1,0 +1,61 @@
+*{
+	outline:1px solid rgba(255,0,0,0.3);
+}
+body{
+	font-family: Oswald;
+} 
+.menu{
+	text-align: center;
+	margin: 2%;
+}
+.submenu{
+	text-decoration: none;
+	margin: 2%;
+	color: black;
+}
+.presentacion{
+		text-align: center;
+		color: white;
+		margin-top:5%;
+}
+.inicimagen{
+	background-image: url("../images/background.jpg") 
+	
+}
+h1{
+	margin: 3% 0%;
+}
+h5 {
+	margin-bottom: 8%;
+}
+.foto{
+	text-align: right;
+	padding: 0%;
+}
+.img{
+	width: 100%;
+}
+.morado {
+	color: purple;
+	margin: 3% 0%;
+	text-align: center;
+}
+.center{
+	text-align: center;
+
+}
+.space{
+	margin: 0% 2%;
+}
+.contenedorgrande{
+	overflow: auto;
+	height: 211px;
+}
+.contenedorchico .gatitos{
+
+	border-radius: 100%;
+	padding:1%;
+	border:1px purple solid;
+	max-width: 22%;
+	margin: 0% 1%;
+}
