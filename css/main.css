@@ -19,14 +19,15 @@ body{
 		margin-top:5%;
 }
 .inicimagen{
-	background-image: url("../images/background.jpg") 
-	
+	background-image: url("../images/background.jpg");
+	/*background-size:50% 60%;*/
+	background-position:left;
 }
 h1{
 	margin: 3% 0%;
 }
 h5 {
-	margin-bottom: 8%;
+	margin-bottom: 6%;
 }
 .foto{
 	text-align: right;
