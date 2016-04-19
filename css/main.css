@@ -7,6 +7,7 @@ body{
 .menu{
 	text-align: center;
 	margin: 2%;
+
 }
 .submenu{
 	text-decoration: none;
@@ -19,7 +20,7 @@ body{
 		margin-top:5%;
 }
 .inicimagen{
-	background-image: url("../images/background.jpg");
+	background-image: url("../web/fondoo.jpg");
 	/*background-size:50% 60%;*/
 	background-position:left;
 }
