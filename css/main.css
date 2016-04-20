@@ -33,7 +33,7 @@ body{
 }
 .cuadrofondo{
 	background: #FF8000;
-	opacity: 0.6;
+	background: rgba(144, 119, 63, 0.5);
 	margin: 0%32%;
 	}
 
@@ -60,13 +60,13 @@ h5 {
 	text-align: center;
 }
 .blanco{
-	color: #9D9C97;
+	color: white;
 	margin-bottom: 2% ;
 }
 .center{
 	text-align: center;
 	background: #FE9A2E;
-	opacity: 0.6;
+	background: rgba(226, 123, 69, 0.5);
 
 }
 .space{
