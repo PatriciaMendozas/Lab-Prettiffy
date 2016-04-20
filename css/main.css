@@ -1,34 +1,51 @@
-*{
+/*{
 	outline:1px solid rgba(255,0,0,0.3);
-}
+}*/
 body{
 	font-family: Oswald;
+	background-image: url("../web/vertical.jpg");
+	background-position:bottom;
 } 
+.container{
+	background: #F0E097;
+}
 .menu{
 	text-align: center;
-	margin: 2%;
-
+	padding-top: 2%;
 }
 .submenu{
 	text-decoration: none;
 	margin: 2%;
-	color: black;
+	color: #B45F04;
 }
 .presentacion{
 		text-align: center;
-		color: white;
-		margin-top:5%;
+		color:#FFFFFF;
+		margin-top:2%;
+}
+#radiologo{
+	border-radius: 100%;
 }
 .inicimagen{
 	background-image: url("../web/fondoo.jpg");
 	/*background-size:50% 60%;*/
 	background-position:left;
 }
+.cuadrofondo{
+	background: #FF8000;
+	opacity: 0.6;
+	margin: 0%32%;
+	}
+
 h1{
 	margin: 3% 0%;
+	opacity: 1;
+	font-size: 39px;
 }
 h5 {
 	margin-bottom: 6%;
+	font-size: 20px;
+	font-family: monospace;
 }
 .foto{
 	text-align: right;
@@ -38,12 +55,18 @@ h5 {
 	width: 100%;
 }
 .morado {
-	color: purple;
+	color: #B45F04;
 	margin: 3% 0%;
 	text-align: center;
 }
+.blanco{
+	color: #9D9C97;
+	margin-bottom: 2% ;
+}
 .center{
 	text-align: center;
+	background: #FE9A2E;
+	opacity: 0.6;
 
 }
 .space{
@@ -57,7 +80,7 @@ h5 {
 
 	border-radius: 100%;
 	padding:1%;
-	border:1px purple solid;
+	border:1px #B45F04 solid;
 	max-width: 22%;
 	margin: 0% 1%;
 }
